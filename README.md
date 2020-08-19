@@ -1,7 +1,7 @@
 # Heyyyyyyyy DEVELOPER!!!👋,
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sumit-Soni-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sumit-soni-8593751b0)](https://www.linkedin.com/in/sumit-soni-8593751b0)
-[![Gmail Badge](https://img.shields.io/badge/-harshitkansal84@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sumitsoni90881@gmail.com)](mailto:sumitsoni90881@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@iam_sumitsoni__-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/iam_sumitsoni__/)](https://www.instagram.com/iam_sumitsoni__/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Sumit_Soni-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sumit-soni-8593751b0)](https://www.linkedin.com/in/sumit-soni-8593751b0)
+[![Gmail Badge](https://img.shields.io/badge/-sumitsoni90881@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sumitsoni90881@gmail.com)](mailto:sumitsoni90881@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@iam_sumitsoni__-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/iam_sumitsoni__/)](https://www.instagram.com/iam_sumitsoni__/) 
 
 ### This is harshit, I'm a student who is curious about learning new things about the course which he is studying about
 
