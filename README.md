@@ -6,6 +6,7 @@
 ### This is harshit, I'm a student who is curious about learning new things about the course which he is studying about.I love to spend my time by watching movies.
 
 - 💻 I’m currently learning Web Development
+- Currently doing btech at Chitkara University 
 - 💬 Ask me about: something new
 - 📫 How to reach me: Links are given above 🔝
 
